@@ -1,0 +1,17 @@
+# Entorno virtual
+venv/
+
+# Base de datos local
+db.sqlite3
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Carpetas de archivos subidos por usuarios (ESTA ES LA CORRECCIÓN)
+media/
+logos_locales/
+productos_imagenes/
+
+# Archivos de configuración local (si usaras .env en el futuro)
+.env

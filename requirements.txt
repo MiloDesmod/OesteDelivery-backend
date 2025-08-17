@@ -1,0 +1,18 @@
+# Frameworks Principales
+django
+djangorestframework
+
+# Autenticación y Cuentas Sociales
+dj-rest-auth
+django-allauth
+
+# Manejo de Imágenes (¡La que notaste que faltaba!)
+Pillow
+
+# Conectividad API (CORS)
+django-cors-headers
+
+# Dependencias de Soporte
+requests
+PyJWT
+cryptography
